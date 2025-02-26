@@ -1,32 +1,77 @@
 # 冴羽的博客
 
-## 最新
+## 关于作者
 
-2021年12月21日 更新博客搭建相关
+* 博客：[https://yayujs.com/](https://yayujs.com/)
+* 社群：[“低调务实优秀中国好青年”前端社群](https://www.yuque.com/yayu/nice-people/xou8qr)
+* 成长：[茶话会](https://www.yuque.com/yayu/blog/grow)、[微信读书](https://yayujs.com/grow)
+* 小册：[《Next.js 开发指南》](https://s.juejin.cn/ds/i8kJo2o8/)、[《Svelte 开发指南》](https://s.juejin.cn/ds/iUurdrae/)
+* 翻译：[TypeScript 中文文档](http://ts.yayujs.com/)、[Solid.js 中文文档](https://solid.yayujs.com/)、[Svelte 中文文档](https://svelte.yayujs.com/)
+* 专栏：[掘金](https://juejin.cn/user/712139234359182/columns)、[思否](https://segmentfault.com/u/yayu)、[语雀](https://www.yuque.com/yayu)、公众号：[冴羽（#yayujs）](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg)
 
-## 支持一下
+## 冴羽·前端大佬成长之路
 
-[创作不易，如果可以的话，希望能在掘金给我投一下票，今日可投 8 票](https://rank.juejin.cn/rank/2021/712139234359182?utm_campaign=annual_2021&utm_medium=self_web_share&utm_source=%E5%86%B4%E7%BE%BD)
+2025 年，我会在知识星球更新一套“前端大佬成长之路”的课程。
 
-## 公众号
+包含目标规划篇、学习方法篇、前端学习篇、个人管理篇、职场发展篇、面试技巧篇、健康养生篇共 7 大篇章、40 节文章。
 
-<img src="https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg" width="120">
+总结了我近十年的工作生活经验，让大家少走一些弯路，节省一些时间。
 
-值得关注的理由：同步推送、只发个人原创文章、加我进冴羽唯一的读者交流群
+目前星球预售 199，3 月 1 日，涨价到 249，随着课程更新，涨回 399 元。
 
-## 专栏
+为了感谢大家的关注，分享给大家一个 50 元的新人优惠券，现在只需要 149 元即可加入，名额 100 个，先到先得：
 
-* [掘金](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
-* [思否](https://segmentfault.com/u/yayu/articles)
-* [知乎](https://zhuanlan.zhihu.com/c_1042806379215601664)
-* [语雀](https://www.yuque.com/qingyu-fasl3/od8gmv)
-* [慕课](https://www.imooc.com/u/306841)
+<img width="30%" src="https://github.com/user-attachments/assets/83c26166-3180-4c96-89b9-0d5ad8c637ae" />
 
-## 交流
+> 请在微信中扫码打开，查看具体介绍
 
-微信：[mqyqingfeng](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/IMG_3516.JPG)
+## Svelte 官方文档翻译
 
-## TypeScript4 官方文档翻译
+1. 主要内容已翻译完毕，查看站点： [Svelte 中文文档](https://svelte.yayujs.com/)
+2. 关于 Svelte 的介绍，查看 [《Svelte 开发指南》](https://s.juejin.cn/ds/iUurdrae/)
+
+## Solid.js 官方文档翻译
+
+1. 主要内容已翻译完毕，查看站点： [Solid.js 中文文档](https://solid.yayujs.com/)
+2. 关于 Solid.js 的介绍，查看[《这个比 React 更 react 的框架 —— Solid.js 最新中文文档来了！》](https://juejin.cn/post/7457857802088890387)
+
+## Next.js 系列
+
+因为签约原因，首发在掘金，一共 24 篇，专栏地址：[Next.js 开发指北](https://juejin.cn/column/7343569488744611849)
+
+## React 系列
+
+因为签约原因，首发在掘金，一共 16 篇，专栏地址：[React 基础与进阶](https://juejin.cn/column/7142674773930147853)
+
+## 冴羽答读者问
+
+1. [30 岁了， 现在开始努力，晚吗？](https://github.com/mqyqingfeng/Blog/issues/280)
+2. [何时能够像你一样优秀？](https://github.com/mqyqingfeng/Blog/issues/281) 
+3. [怎么才能像你一样写文章如喝水？](https://github.com/mqyqingfeng/Blog/issues/283)
+4. [怎么才能像你一样长到180？](https://github.com/mqyqingfeng/Blog/issues/284)
+5. [冴羽哥哥 额爱你](https://github.com/mqyqingfeng/Blog/issues/285)
+6. [啦啦啦啦啦啦](https://github.com/mqyqingfeng/Blog/issues/286) 
+7. [除代码外，就没别的优先级很高的爱好了吗？](https://github.com/mqyqingfeng/Blog/issues/287) 
+8. [钱和成长，哪个更重要？](https://github.com/mqyqingfeng/Blog/issues/288) 
+9. [悄悄过来蹭个回答](https://github.com/mqyqingfeng/Blog/issues/289) 
+10. [怎么才能不焦虑？](https://github.com/mqyqingfeng/Blog/issues/292) 
+11. [功利性学习的心态，你是否也会有？](https://github.com/mqyqingfeng/Blog/issues/293)
+12. [人生低谷时，如何快速调整、重回正轨？](https://github.com/mqyqingfeng/Blog/issues/294)
+13. [人生的意义是什么？](https://github.com/mqyqingfeng/Blog/issues/295) 
+14. [你是怎么理解知行合一的？](https://github.com/mqyqingfeng/Blog/issues/296) 
+15. [如何快速找到一个聊得来的人生伴侣？](https://github.com/mqyqingfeng/Blog/issues/297)
+16. [怎么平衡工作与生活？](https://github.com/mqyqingfeng/Blog/issues/298)
+17. [如果有机会，你会选择脱产学习深造吗？](https://github.com/mqyqingfeng/Blog/issues/299)
+18. [如何在工作中打造影响力，带动同事？](https://github.com/mqyqingfeng/Blog/issues/306)
+19. [如何学习更有计划性、提升更稳更快？](https://github.com/mqyqingfeng/Blog/issues/308)
+20. [过程比结果重要吗？](https://github.com/mqyqingfeng/Blog/issues/309)
+21. [冴羽，你为什么写起了鸡汤？](https://github.com/mqyqingfeng/Blog/issues/310)
+
+## TypeScript 官方文档翻译
+
+1. 主要内容已翻译完毕，查看站点： [TypeScript 中文文档](https://ts.yayujs.com/)
+
+系列目录：
 
 1. [TypeScript之基础入门](https://github.com/mqyqingfeng/Blog/issues/227)
 2. [TypeScript之常见类型（上）](https://github.com/mqyqingfeng/Blog/issues/228)
@@ -52,10 +97,40 @@
 3. [还不会用 GitHub Actions ？看看这篇](https://github.com/mqyqingfeng/Blog/issues/237)
 4. [Gitee 如何自动部署 Pages？还是用 GitHub Actions!](https://github.com/mqyqingfeng/Blog/issues/238)
 5. [一份前端够用的 Linux 命令](https://github.com/mqyqingfeng/Blog/issues/239)
+6. [一份简单够用的 Nginx Location 配置讲解](https://github.com/mqyqingfeng/Blog/issues/242)
+7. [一篇教你博客如何部署到自己的服务器](https://github.com/mqyqingfeng/Blog/issues/243)
+8. [一篇域名从购买到备案到解析的详细教程](https://github.com/mqyqingfeng/Blog/issues/247)
+9. [VuePress 博客优化之 last updated 最后更新时间如何设置](https://github.com/mqyqingfeng/Blog/issues/244)
+10. [VuePress 博客优化之添加数据统计功能](https://github.com/mqyqingfeng/Blog/issues/245)
+11. [VuePress 博客优化之开启 HTTPS](https://github.com/mqyqingfeng/Blog/issues/246) 
+12. [VuePress 博客优化之开启 Gzip 压缩](https://github.com/mqyqingfeng/Blog/issues/248)
+13. [从零实现一个 VuePress 插件](https://github.com/mqyqingfeng/Blog/issues/250)
+14. [VuePress 博客优化之拓展 Markdown 语法](https://github.com/mqyqingfeng/Blog/issues/251) 
+15. [markdown-it 原理解析](https://github.com/mqyqingfeng/Blog/issues/252)
+16. [markdown-it 插件如何写（一）](https://github.com/mqyqingfeng/Blog/issues/253)
+17. [markdown-it 插件如何写（二）](https://github.com/mqyqingfeng/Blog/issues/254) 
+18. [markdown-it 插件如何写（三）](https://github.com/mqyqingfeng/Blog/issues/255) 
+19. [有的时候我觉得我不会 Markdown](https://github.com/mqyqingfeng/Blog/issues/256)
+20. [VuePress 博客优化之中文锚点跳转问题](https://github.com/mqyqingfeng/Blog/issues/259)
+21. [搭建 VuePress 博客，你可能会用到的一些插件](https://github.com/mqyqingfeng/Blog/issues/261)
+22. [VuePress 博客如何开启本地 HTTPS 访问](https://github.com/mqyqingfeng/Blog/issues/262) 
+23. [VuePress 博客优化之兼容 PWA](https://github.com/mqyqingfeng/Blog/issues/263) 
+24. [VuePress 博客优化之开启 Algolia 全文搜索](https://github.com/mqyqingfeng/Blog/issues/267) 
+25. [VuePress 博客优化之增加 Valine 评论功能](https://github.com/mqyqingfeng/Blog/issues/268)
+26. [VuePress 博客优化之增加 Vssue 评论功能](https://github.com/mqyqingfeng/Blog/issues/270)
+27. [VuePress 博客之 SEO 优化（一）sitemap 与搜索引擎收录](https://github.com/mqyqingfeng/Blog/issues/272)
+28. [VuePress 博客之 SEO 优化（二）重定向](https://github.com/mqyqingfeng/Blog/issues/273)
+29. [VuePress 博客之 SEO 优化（三）标题、链接优化](https://github.com/mqyqingfeng/Blog/issues/274)
+30. [VuePress 博客之 SEO 优化（四） Open Graph protocol](https://github.com/mqyqingfeng/Blog/issues/275)
+31. [VuePress 博客之 SEO 优化（五）添加 JSON-LD 数据](https://github.com/mqyqingfeng/Blog/issues/276)
+32. [VuePress 博客之 SEO 优化（六）站长工具](https://github.com/mqyqingfeng/Blog/issues/277)
+33. [搭建 VuePress 站点必做的 10 个优化](https://github.com/mqyqingfeng/Blog/issues/278) 
+34. [VuePress 博客搭建系列 33 篇正式完结！](https://github.com/mqyqingfeng/Blog/issues/279)
 
-## 浏览器系列
+## 一些单篇
 
 1. [浏览器系列之 Cookie 和 SameSite 属性](https://github.com/mqyqingfeng/Blog/issues/157)
+1. [聊聊 npm 的语义化版本（Semver）](https://github.com/mqyqingfeng/Blog/issues/312)
 
 ## 面试系列
 
@@ -145,10 +220,6 @@
 18. [ES6 系列之我们来聊聊装饰器](https://github.com/mqyqingfeng/Blog/issues/109)
 19. [ES6 系列之私有变量的实现](https://github.com/mqyqingfeng/Blog/issues/110)
 20. [ES6 完全使用手册](https://github.com/mqyqingfeng/Blog/issues/111)
-
-## 注意
-
-深入系列文章部分是有先后顺序的，按照目录结构顺序阅读效果最好。
 
 ## 勘误及提问
 
